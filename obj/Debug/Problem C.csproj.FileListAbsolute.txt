@@ -1,0 +1,7 @@
+C:\Users\Ataei\Desktop\C#\Problem C\Problem C\bin\Debug\Problem C.exe.config
+C:\Users\Ataei\Desktop\C#\Problem C\Problem C\bin\Debug\Problem C.exe
+C:\Users\Ataei\Desktop\C#\Problem C\Problem C\bin\Debug\Problem C.pdb
+C:\Users\Ataei\Desktop\C#\Problem C\Problem C\obj\Debug\Problem C.csprojResolveAssemblyReference.cache
+C:\Users\Ataei\Desktop\C#\Problem C\Problem C\obj\Debug\Problem C.csproj.CoreCompileInputs.cache
+C:\Users\Ataei\Desktop\C#\Problem C\Problem C\obj\Debug\Problem C.exe
+C:\Users\Ataei\Desktop\C#\Problem C\Problem C\obj\Debug\Problem C.pdb
